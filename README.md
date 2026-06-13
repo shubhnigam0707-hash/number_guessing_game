@@ -1,4 +1,4 @@
-# number_guessing_game# Number Guessing Game
+# Number Guessing Game
 
 This is a simple number guessing game I built in C++ while practicing programming fundamentals.
 
